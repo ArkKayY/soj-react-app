@@ -28,6 +28,19 @@
   color: #61dafb;
 }
 
+.home5Main {
+  margin-top: 5%;
+  border: 2px solid grey;
+  width: 100%;
+  height: 400px;
+}
+
+.home5Main1Img {
+  float: left;
+  width: 13%;
+  height: auto;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
