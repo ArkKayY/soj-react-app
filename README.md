@@ -1,3 +1,5 @@
+# SOJ React Application
+
 ### `npm install`
 Install all necessary dependencies to run the app.
 
